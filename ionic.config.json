@@ -1,0 +1,7 @@
+{
+  "name": "m_app_natdanai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
